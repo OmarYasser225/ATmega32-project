@@ -1,5 +1,6 @@
 # Frequency Meter
-This project include the following
+- This project based on __ATmega32__ Microcontroller
+- This project include the following
 ## 1 - Frequency Meter Code
 This project is a frequeency meter product which allow you to measure the frequency form 1 Hz to 10 MHz
 
