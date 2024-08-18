@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=GND Pin=PULL_DOWN-1
+Removed Pin From Net: NetName=NetINPUT_1 Pin=PULL_DOWN-2
+Change Component Footprint: Designator=PULL_DOWN Old Footprint=AXIAL-0.3 New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=R_IN Old Footprint=AXIAL-0.3 New Footprint=AXIAL-0.4
+Change Component Comment : Designator=PULL_DOWN Old Comment=Res1 New Comment=100k
+Change Component Comment : Designator=R_IN Old Comment=Res1 New Comment=270
+Change component parameters: Designator = "PULL_DOWN" ("PULL_DOWN"); Footprint = "AXIAL-0.3"; UniqueID = "\TDNUGZIB" ("\TDNUGZIB")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R_IN" ("R_IN"); Footprint = "AXIAL-0.3"; UniqueID = "\OWTKSCOJ" ("\OWTKSCOJ")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=P1(HDR2X5_CEN)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=G Pin=P1-1
+Added Pin To Net: NetName=DEC Pin=P1-2
+Added Pin To Net: NetName=RESET Pin=P1-3
+Added Pin To Net: NetName=F Pin=P1-5
+Added Pin To Net: NetName=GND Pin=P1-6
+Added Pin To Net: NetName=VCC Pin=P1-10
+Added Pin To Net: NetName=NetINPUT_1 Pin=PULL_DOWN-1
+Added Pin To Net: NetName=GND Pin=PULL_DOWN-2
+Added Member To Class: ClassName=Sheet1 Member=Component P1 Header 5X2A

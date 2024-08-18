@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=NetINPUT_1 Pin=R_INPUT-1
+Removed Pin From Net: NetName=IN Pin=R_INPUT-2
+Removed Member From Class: ClassName=Sheet1 Member=R_INPUT
+Change Component Designator: OldDesignator=7-segment NewDesignator=7-seg*
+Change Component Designator: OldDesignator=20MHZ_CRYSTAL NewDesignator=Y1
+Change Component Designator: OldDesignator=ATTINY_4313 NewDesignator=IC1
+Added Component: Designator=P1(HDR2X5_CEN)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=PULL_DOWN(AXIAL-0.3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Added Component: Designator=R_IN(AXIAL-0.3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "270"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=G Pin=P1-1
+Added Pin To Net: NetName=DEC Pin=P1-2
+Added Pin To Net: NetName=RESET Pin=P1-3
+Added Pin To Net: NetName=F Pin=P1-5
+Added Pin To Net: NetName=GND Pin=P1-6
+Added Pin To Net: NetName=VCC Pin=P1-10
+Added Pin To Net: NetName=GND Pin=PULL_DOWN-1
+Added Pin To Net: NetName=NetINPUT_1 Pin=PULL_DOWN-2
+Added Pin To Net: NetName=IN Pin=R_IN-1
+Added Pin To Net: NetName=NetINPUT_1 Pin=R_IN-2
+Change Net Name : Old Net Name=Net7-segment_1 New Net Name=Net7-seg*_1
+Change Net Name : Old Net Name=Net7-segment_2 New Net Name=Net7-seg*_2
+Change Net Name : Old Net Name=Net7-segment_3 New Net Name=Net7-seg*_3
+Change Net Name : Old Net Name=Net7-segment_4 New Net Name=Net7-seg*_4
+Change Net Name : Old Net Name=Net7-segment_5 New Net Name=Net7-seg*_5
+Change Net Name : Old Net Name=Net7-segment_7 New Net Name=Net7-seg*_7
+Change Net Name : Old Net Name=Net7-segment_10 New Net Name=Net7-seg*_10
+Change Net Name : Old Net Name=Net7-segment_11 New Net Name=Net7-seg*_11
+Added Member To Class: ClassName=Sheet1 Member=Component P1 Header 5X2A
+Added Member To Class: ClassName=Sheet1 Member=Component PULL_DOWN Res1
+Added Member To Class: ClassName=Sheet1 Member=Component R_IN Res1

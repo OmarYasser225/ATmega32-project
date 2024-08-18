@@ -1,0 +1,18 @@
+Add Component: Footprint Not Found 7-Segment 4-Digits 4 inch
+Added Component: Designator=IC1(DIP794W56P254L2574H533Q20N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "ATTINY4313-PU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/attiny4313-pu/microchip-technology?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.atmel.com/images/8246s.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.334mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ATTINY4313-PU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "556-ATTINY4313-PU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/ATTINY4313-PU?qs=lwdSMh1%2FoYKRSyWx6oCIeQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=P1(HDR2X5_CEN)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetIC1_1 Pin=IC1-1
+Added Pin To Net: NetName=NetIC1_1 Pin=P1-6
+Added Net: Name=NetIC1_1
+Added Class: Name=Sheet1

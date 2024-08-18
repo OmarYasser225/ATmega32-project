@@ -1,0 +1,25 @@
+Removed Member From Class: ClassName=Sheet1 Member=OUTPUT
+Change Component Designator: OldDesignator=7-seg* NewDesignator=7-segment
+Change Component Designator: OldDesignator=INPUT NewDesignator=POWER
+Change Component Designator: OldDesignator=OUTPUT NewDesignator=INPUT
+Added Component: Designator=P1(HDR2X5_CEN)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=G Pin=P1-1
+Added Pin To Net: NetName=DEC Pin=P1-2
+Added Pin To Net: NetName=RESET Pin=P1-3
+Added Pin To Net: NetName=F Pin=P1-5
+Added Pin To Net: NetName=GND Pin=P1-6
+Added Pin To Net: NetName=VCC Pin=P1-10
+Change Net Name : Old Net Name=Net7-seg*_1 New Net Name=Net7-segment_1
+Change Net Name : Old Net Name=Net7-seg*_2 New Net Name=Net7-segment_2
+Change Net Name : Old Net Name=Net7-seg*_3 New Net Name=Net7-segment_3
+Change Net Name : Old Net Name=Net7-seg*_4 New Net Name=Net7-segment_4
+Change Net Name : Old Net Name=Net7-seg*_5 New Net Name=Net7-segment_5
+Change Net Name : Old Net Name=Net7-seg*_7 New Net Name=Net7-segment_7
+Change Net Name : Old Net Name=Net7-seg*_10 New Net Name=Net7-segment_10
+Change Net Name : Old Net Name=Net7-seg*_11 New Net Name=Net7-segment_11
+Change Net Name : Old Net Name=NetOUTPUT_1 New Net Name=NetINPUT_1
+Added Member To Class: ClassName=Sheet1 Member=Component P1 Header 5X2A
+Added Member To Class: ClassName=Sheet1 Member=Component POWER 282837-2
