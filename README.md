@@ -1,1 +1,1 @@
-# ATmega32 Projects
+# AVR Projects
