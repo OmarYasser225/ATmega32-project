@@ -8,4 +8,4 @@ This is an arduino code which generate a frequency from 15 Hz to 10 MHz
 
 ## 3- PCB design board
 This is PCB design for the following schametic
-![MasterHead](https://github.com/OmarYasser225/Frequency-Meter-ATiny-4313-/blob/main/Code/Schmatic.jpg)
+![MasterHead](https://github.com/OmarYasser225/AVR-Project/blob/main/Frequency%20Meter/Code/Schmatic.jpg)
